@@ -1,5 +1,5 @@
 # Portfolio_Wildfires
-L'objectif de cete analyse est de dégager les corrélations entre les caractéristiques envionnementles des forêts et la taille des incendies qui s'y développent.
+L'objectif est de dégager les corrélations entre les caractéristiques envionnementles des forêts et la taille des incendies qui s'y développent.
 
 Les données sont accessibles aux sites suivants:
 
