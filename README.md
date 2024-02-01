@@ -1,18 +1,17 @@
 # Portfolio_Wildfires
 
-* Ce travail personel a pour objectif est de dégager les corrélations entre les caractéristiques envionnementales de forêts et la taille des incendies qui y sont déclarés.
+**o** Objectif: dégager les corrélations entre la taille des incendies et les caractéristiques géologiques de leur environnement.
 
-o  Points techniques abordés:
-- les données utilisées: incendies (taille, date, lieu, etc), météo, composition des forêts et sols;
-- nettoyage et préparation des dataframes : jointure, utilisation de Geopandas (conversion et projection), datetime;
-- description statistique: considération spatiales et temporelles à l'échelle nationale et départementale;
+o Points techniques abordés:
+- jointure
+- modules Geopandas et Datetime;
+- description statistique spatiale et temporelle;
 - étude de corrélations: test du Chi², ANOVA, régression linéaire;
-- réductions par ACP: éboulis des valeurs propres, cercles de corrélations et plans factoriels, contributions;
-- classifications des incendies et tests de différenciation: CAH et K-Means;
-- analyse du profil des feux avec étude des clusters: projection sur plans factoriels,
-- incidence des sols sur les feux.
+- réductions par ACP;
+- classifications et tests de différenciation: CAH et K-Means;
+- analyse des clusters avec projections sur plans factoriels et étude de corrélations.
 
-o  Les données sont accessibles aux sites suivants:
+o Les données sont accessibles aux sites suivants:
 
 - "IGN – Inventaire forestier national français, Données brutes, Campagnes annuelles 2005 et suivantes:  https://inventaire-forestier.ign.fr/dataIFN/, site consulté le 01/08/2022"
 
