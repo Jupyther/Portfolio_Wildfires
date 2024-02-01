@@ -1,6 +1,6 @@
 # Portfolio_Wildfires
 
-o  Ce travail personel a pour objectif est de dégager les corrélations entre les caractéristiques envionnementales de forêts et la taille des incendies qui y sont déclarés.
+* Ce travail personel a pour objectif est de dégager les corrélations entre les caractéristiques envionnementales de forêts et la taille des incendies qui y sont déclarés.
 
 o  Points techniques abordés:
 - les données utilisées: incendies (taille, date, lieu, etc), météo, composition des forêts et sols;
