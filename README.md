@@ -1,4 +1,4 @@
-# Portfolio_Wildfires
+# Portfolio "Wildfires"
 
 **o** Objectif: dégager les corrélations entre la taille des incendies et les caractéristiques géologiques de leur environnement.
 
@@ -10,7 +10,7 @@
 - étude de corrélations: test du Chi², ANOVA, régression linéaire
 - réductions par ACP
 - classifications et tests de différenciation: CAH et K-Means
-- analyse des clusters avec projections sur plans factoriels et étude de corrélations.
+- analyse des clusters avec projections sur plans factoriels et étude de corrélations
 
 
 **o** Les données sont accessibles aux sites suivants:
