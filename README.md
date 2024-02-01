@@ -1,9 +1,10 @@
 # Portfolio_Wildfires
 
-**o** Objectif: dégager les corrélations entre la taille des incendies et les caractéristiques géologiques de leur environnement.
+**-** Objectif: dégager les corrélations entre la taille des incendies et les caractéristiques géologiques de leur environnement.
 
-o Points techniques abordés:
-- jointure
+
+**-** Points techniques abordés:
+o jointure
 - modules Geopandas et Datetime;
 - description statistique spatiale et temporelle;
 - étude de corrélations: test du Chi², ANOVA, régression linéaire;
@@ -11,7 +12,8 @@ o Points techniques abordés:
 - classifications et tests de différenciation: CAH et K-Means;
 - analyse des clusters avec projections sur plans factoriels et étude de corrélations.
 
-o Les données sont accessibles aux sites suivants:
+
+**-** Les données sont accessibles aux sites suivants:
 
 - "IGN – Inventaire forestier national français, Données brutes, Campagnes annuelles 2005 et suivantes:  https://inventaire-forestier.ign.fr/dataIFN/, site consulté le 01/08/2022"
 
