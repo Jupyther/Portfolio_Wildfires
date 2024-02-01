@@ -5,11 +5,11 @@
 
 **o** Points techniques abordés:
 - jointure
-- modules Geopandas et Datetime;
-- description statistique spatiale et temporelle;
-- étude de corrélations: test du Chi², ANOVA, régression linéaire;
-- réductions par ACP;
-- classifications et tests de différenciation: CAH et K-Means;
+- modules Geopandas et Datetime
+- description statistique spatiale et temporelle
+- étude de corrélations: test du Chi², ANOVA, régression linéaire
+- réductions par ACP
+- classifications et tests de différenciation: CAH et K-Means
 - analyse des clusters avec projections sur plans factoriels et étude de corrélations.
 
 
