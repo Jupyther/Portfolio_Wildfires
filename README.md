@@ -3,7 +3,7 @@
 **o** Objectif: dégager les corrélations entre la taille des incendies et les caractéristiques géologiques de leur environnement.
 
 
-**o** Points techniques abordés:
+**o** Techniques abordées:
 - jointure
 - modules Geopandas et Datetime
 - description statistique spatiale et temporelle
